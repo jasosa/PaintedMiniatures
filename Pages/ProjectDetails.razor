@@ -1,0 +1,128 @@
+@page "/project/{projectName}"
+@inject MiniatureService MiniService
+@using MiniaturesApp.Models
+@using MiniaturesApp.Services
+
+@code {
+    [Parameter]
+    public required string ProjectName { get; set; }
+
+    private PaintingProject? project;
+    private List<Miniature> sortedMiniatures = new();
+    private string selectedSortOption = "Name";
+    private bool isAscending = true; // Tracks the sort order
+
+    protected override void OnInitialized()
+    {
+        project = MiniService.GetProjectByName(ProjectName);
+        if (project != null)
+        {
+            sortedMiniatures = project.Miniatures.OrderBy(m => m.Name).ToList();
+        }
+    }
+
+    private void SortMiniatures(ChangeEventArgs e)
+    {
+        selectedSortOption = e.Value?.ToString() ?? "Name";
+        ApplySorting();
+    }
+
+    private void ToggleSortOrder()
+    {
+        isAscending = !isAscending;
+        ApplySorting();
+    }
+
+    private void ApplySorting()
+    {
+        sortedMiniatures = selectedSortOption switch
+        {
+            "Name" => isAscending
+                ? project!.Miniatures.OrderBy(m => m.Name).ToList()
+                : project!.Miniatures.OrderByDescending(m => m.Name).ToList(),
+            "Type" => isAscending
+                ? project!.Miniatures.OrderBy(m => m.Type).ToList()
+                : project!.Miniatures.OrderByDescending(m => m.Type).ToList(),
+            "IsPainted" => isAscending
+                ? project!.Miniatures.OrderBy(m => m.IsPainted).ToList()
+                : project!.Miniatures.OrderByDescending(m => m.IsPainted).ToList(),
+            _ => project!.Miniatures.OrderBy(m => m.Name).ToList()
+        };
+    }
+}
+
+@if (project == null)
+{
+    <h3>Project not found</h3>
+}
+else
+{
+    <h2>@project.Name</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <img src="@project.CoverImageUrl" alt="@project.Name" class="project-image"  />
+        <p><strong>Total Miniatures:</strong> @project.Miniatures.Count</p>
+        <p><strong>Painted Percentage:</strong> @($"{project.Miniatures.Count(m => m.IsPainted) * 100 / project.Miniatures.Count:N0}%")</p>
+        <div class="progress">
+            <div class="progress-bar progress-bar-striped bg-success" role="progressbar"
+                style="width: @project.PaintedPercentage%" aria-valuenow="@project.PaintedPercentage"
+                aria-valuemin="0" aria-valuemax="100">                            
+            </div>
+        </div>
+    </div>
+
+     <!-- Right Column: Table of Miniatures -->
+    <div class="col-md-8">
+        <h3>Miniatures</h3>
+
+        <div class="mb-3">
+            <label for="sortOptions" class="form-label">Sort by:</label>
+            <select id="sortOptions" class="form-select" @onchange="SortMiniatures">
+                <option value="Name" selected>Name</option>
+                <option value="Type">Type</option>
+                <option value="IsPainted">Painted Status</option>
+            </select>
+             <button class="btn btn-outline-secondary" @onclick="ToggleSortOrder">
+                    @if (isAscending)
+                    {
+                        <i class="bi bi-arrow-up">Asc</i>
+                    }
+                    else
+                    {
+                        <i class="bi bi-arrow-down">Desc</i>
+                    }
+                </button>
+        </div>
+
+        <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Type</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var miniature in sortedMiniatures)
+                    {
+                        <tr>
+                            <td>@miniature.Name</td>
+                            <td>@miniature.Type</td>
+                            <td>
+                                @if (miniature.IsPainted)
+                                {
+                                    <span class="badge bg-success">Painted</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-secondary">Not Painted</span>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+    </div>
+</div>
+}

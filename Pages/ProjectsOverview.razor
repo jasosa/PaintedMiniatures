@@ -1,0 +1,34 @@
+@page "/overview"
+@inject MiniatureService MiniService
+@using MiniaturesApp.Models
+@using MiniaturesApp.Services
+
+<h2>My Painting Projects</h2>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var project in MiniService.GetAllPaintingProjects())
+    {
+        <div class="col-md-4 mb-3">
+            <a href="/project/@project.Name" class="text-decoration-none text-dark">
+                <div class="card rounded-5">
+                    <img src="@project.CoverImageUrl" class="card-img-top rounded-top" alt="@project.Name" />
+                    <div class="card-body">
+                        <h5 class="card-title"><strong>@project.Name</strong></h5>
+                        <p class="card-text">Miniatures: @project.Miniatures.Count</p> <!-- Added line -->
+                        <div class="card-footer bg-transparent">
+                            <div class="mb-1">
+                                <strong>@($"{project.PaintedPercentage:N0}% Painted")</strong>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped bg-success" role="progressbar"
+                                    style="width: @project.PaintedPercentage%" aria-valuenow="@project.PaintedPercentage"
+                                    aria-valuemin="0" aria-valuemax="100">                            
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    }
+</div>

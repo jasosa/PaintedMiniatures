@@ -1,0 +1,52 @@
+# Build output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.csproj.user
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+wwwroot/lib/
+
+# Generated files
+*.g.*
+*.g.i.*
+*.designer.cs
+*.generated.cs
+
+# Static web assets
+wwwroot/_framework/
+wwwroot/_content/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Publish output
+publish/
+out/
+
+# Configuration files
+appsettings.*.json
+secrets.json
+
+# Other
+.DS_Store
+Thumbs.db

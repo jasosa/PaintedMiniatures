@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Gloomhaven",
+    "CoverImageUrl": "images/gloomhaven.jpg",
+    "Miniatures": [
+      { "Name": "Brute", "Type": "Hero", "IsPainted": true },
+      { "Name": "Scoundrel", "Type": "Hero", "IsPainted": false },
+      { "Name": "Inox Guard", "Type": "Enemy", "IsPainted": true }
+    ]
+  },
+  {
+    "Name": "Zombicide",
+    "CoverImageUrl": "images/zombicide.jpg",
+    "Miniatures": [
+      { "Name": "Fatty", "Type": "Zombie", "IsPainted": false },
+      { "Name": "Runner", "Type": "Zombie", "IsPainted": false }
+    ]
+  },
+  {
+    "Name": "Blood Rage",
+    "CoverImageUrl": "images/bloodrage.jpg",
+    "Miniatures": [
+      { "Name": "Viking Warrior", "Type": "Hero", "IsPainted": true },
+      { "Name": "Sea Serpent", "Type": "Monster", "IsPainted": false },
+      { "Name": "Fire Giant", "Type": "Monster", "IsPainted": true }
+    ]
+  },
+  {
+    "Name": "Cthulhu: Death May Die",
+    "CoverImageUrl": "images/cthulhu.jpg",
+    "Miniatures": [
+      { "Name": "Investigator", "Type": "Hero", "IsPainted": false },
+      { "Name": "Cultist", "Type": "Enemy", "IsPainted": false },
+      { "Name": "Cthulhu", "Type": "Elder God", "IsPainted": false }
+    ]
+  },
+  {
+    "Name": "Star Wars: Imperial Assault",
+    "CoverImageUrl": "images/imperial.jpg",
+    "Miniatures": [
+      { "Name": "Stormtrooper", "Type": "Enemy", "IsPainted": true },
+      { "Name": "Darth Vader", "Type": "Villain", "IsPainted": false },
+      { "Name": "Rebel Trooper", "Type": "Hero", "IsPainted": true }
+    ]
+  }
+]
