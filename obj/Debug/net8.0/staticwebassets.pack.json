@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MiniaturesApp.styles.css",
+      "PackagePath": "staticwebassets\\MiniaturesApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\data\\paintingprojects.json",
+      "PackagePath": "staticwebassets\\data\\paintingprojects.json"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\images\\bloodrage.jpg",
+      "PackagePath": "staticwebassets\\images\\bloodrage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\images\\cthulhu.jpg",
+      "PackagePath": "staticwebassets\\images\\cthulhu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\images\\gloomhaven.jpg",
+      "PackagePath": "staticwebassets\\images\\gloomhaven.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\images\\imperial.jpg",
+      "PackagePath": "staticwebassets\\images\\imperial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\images\\zombicide.jpg",
+      "PackagePath": "staticwebassets\\images\\zombicide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiniaturesApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiniaturesApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MiniaturesApp.props",
+      "PackagePath": "build\\MiniaturesApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MiniaturesApp.props",
+      "PackagePath": "buildMultiTargeting\\MiniaturesApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MiniaturesApp.props",
+      "PackagePath": "buildTransitive\\MiniaturesApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

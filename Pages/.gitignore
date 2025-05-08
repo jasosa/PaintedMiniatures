@@ -30,6 +30,7 @@ wwwroot/lib/
 *.g.i.*
 *.designer.cs
 *.generated.cs
+*.gz
 
 # Static web assets
 wwwroot/_framework/
