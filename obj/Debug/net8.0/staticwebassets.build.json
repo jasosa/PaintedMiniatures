@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t9hi9Y2g4kzzojiwuH1J4W/ZKGL57LB72l2w05wlw80=",
+  "Hash": "C0UgMt7G56IYxv8S/5/fSwF+vkGR6UYe7vBh6SRZ5/0=",
   "Source": "MiniaturesApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "4fr5u1rs16",
-      "Integrity": "EEzeEsOwBYgqyuGNpXIw0QK8uxY4XZdc+vYe2voUcA8=",
+      "Fingerprint": "be544cma23",
+      "Integrity": "UwihIfOAwwoFPe2c2mBOwDI9IryTAW2XiPvXTbt8BT8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "dxcflbdw6z",
-      "Integrity": "MQDIVHSCA9IcgM1zdNiFRh6maH6+VoIUueYey4l/Jm8=",
+      "Fingerprint": "f3srn54t03",
+      "Integrity": "+/Eb0A2EBg9SxH0wFhozlntcaB1lXMDrAtWB9mDVwzo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\MiniaturesApp.pdb"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "1oa1kr0vpf",
-      "Integrity": "v3Owmo6q/LbxIuhqmai/1S7xgieA7ud7vGRXaQtC3bE=",
+      "Fingerprint": "e180kha93m",
+      "Integrity": "soCHEVc6EbRmt17iJRQWm7jMwSVVs4C0o9x9evc88Qo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\webcil\\MiniaturesApp.wasm"
@@ -4826,7 +4826,7 @@
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Text.Json.wasm"
     },
     {
-      "Identity": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\4soseu7oua-4fr5u1rs16.gz",
+      "Identity": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\4soseu7oua-be544cma23.gz",
       "SourceId": "MiniaturesApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\",
@@ -4840,8 +4840,8 @@
       "RelatedAsset": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "29y7npoqm9",
-      "Integrity": "2tvs7vHHXfzKZTz44YTLn4x5MUGLt9UMdEHBlmiiWGg=",
+      "Fingerprint": "beja7m4dvc",
+      "Integrity": "s3950jVxTWZV3GYlOQgGrvufrZKi9spk8SZU3UJPV/w=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5771,7 +5771,7 @@
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\esjcaxm4ja-1oa1kr0vpf.gz",
+      "Identity": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\esjcaxm4ja-e180kha93m.gz",
       "SourceId": "MiniaturesApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\",
@@ -5785,8 +5785,8 @@
       "RelatedAsset": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\MiniaturesApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7mycdcgg8h",
-      "Integrity": "PxdXyfqacIt8vkWD/jOuaucvEbqkTZ4a9YMXMkQ3M14=",
+      "Fingerprint": "u7ngpeas1s",
+      "Integrity": "iipI1viLsOkxO5MR0oQ/Q2xP114Fk0Ru4UAlM9CaKcE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\MiniaturesApp.wasm"
@@ -6338,7 +6338,7 @@
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.wasm"
     },
     {
-      "Identity": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\kdjvcckm4w-dxcflbdw6z.gz",
+      "Identity": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\kdjvcckm4w-f3srn54t03.gz",
       "SourceId": "MiniaturesApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\",
@@ -6352,8 +6352,8 @@
       "RelatedAsset": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\MiniaturesApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jx4c61wqlx",
-      "Integrity": "CXLl77oqOVzlNGUO2ffHQ8Sem+0UCy3VQp3QTJb+LnE=",
+      "Fingerprint": "4rhfs4cmbq",
+      "Integrity": "YIz7WWEPjAKFoua0L3ZnBaxVHFF5mg3nv/JyLiMuY/U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\bin\\Debug\\net8.0\\wwwroot\\_framework\\MiniaturesApp.pdb"
@@ -8914,8 +8914,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sthm65zzjy",
-      "Integrity": "wO37Vxryg9JNbEDcJCpDGXwmELJ39EdGo6/DN+KFqDM=",
+      "Fingerprint": "vr3secfklu",
+      "Integrity": "G3AWwnkkZgFGEoOCr8QbH5fypsnx0ysrpV9gC1BVnLo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -8962,11 +8962,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EEzeEsOwBYgqyuGNpXIw0QK8uxY4XZdc+vYe2voUcA8=\""
+          "Value": "\"UwihIfOAwwoFPe2c2mBOwDI9IryTAW2XiPvXTbt8BT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:26:25 GMT"
+          "Value": "Wed, 07 May 2025 20:55:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8976,18 +8976,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EEzeEsOwBYgqyuGNpXIw0QK8uxY4XZdc+vYe2voUcA8="
+          "Value": "sha256-UwihIfOAwwoFPe2c2mBOwDI9IryTAW2XiPvXTbt8BT8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\4soseu7oua-4fr5u1rs16.gz",
+      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\4soseu7oua-be544cma23.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000115021854"
+          "Quality": "0.000115035086"
         }
       ],
       "ResponseHeaders": [
@@ -8997,15 +8997,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8693"
+          "Value": "8692"
         },
         {
           "Name": "ETag",
-          "Value": "\"2tvs7vHHXfzKZTz44YTLn4x5MUGLt9UMdEHBlmiiWGg=\""
+          "Value": "\"s3950jVxTWZV3GYlOQgGrvufrZKi9spk8SZU3UJPV/w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:19:06 GMT"
+          "Value": "Wed, 07 May 2025 20:54:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9025,19 +9025,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"EEzeEsOwBYgqyuGNpXIw0QK8uxY4XZdc+vYe2voUcA8=\""
+          "Value": "W/\"UwihIfOAwwoFPe2c2mBOwDI9IryTAW2XiPvXTbt8BT8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EEzeEsOwBYgqyuGNpXIw0QK8uxY4XZdc+vYe2voUcA8="
+          "Value": "sha256-UwihIfOAwwoFPe2c2mBOwDI9IryTAW2XiPvXTbt8BT8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\4soseu7oua-4fr5u1rs16.gz",
+      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\4soseu7oua-be544cma23.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9046,7 +9046,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8693"
+          "Value": "8692"
         },
         {
           "Name": "Content-Type",
@@ -9054,11 +9054,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2tvs7vHHXfzKZTz44YTLn4x5MUGLt9UMdEHBlmiiWGg=\""
+          "Value": "\"s3950jVxTWZV3GYlOQgGrvufrZKi9spk8SZU3UJPV/w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:19:06 GMT"
+          "Value": "Wed, 07 May 2025 20:54:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9076,7 +9076,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2tvs7vHHXfzKZTz44YTLn4x5MUGLt9UMdEHBlmiiWGg="
+          "Value": "sha256-s3950jVxTWZV3GYlOQgGrvufrZKi9spk8SZU3UJPV/w="
         }
       ]
     },
@@ -14297,7 +14297,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30084"
+          "Value": "31008"
         },
         {
           "Name": "Content-Type",
@@ -14305,11 +14305,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MQDIVHSCA9IcgM1zdNiFRh6maH6+VoIUueYey4l/Jm8=\""
+          "Value": "\"+/Eb0A2EBg9SxH0wFhozlntcaB1lXMDrAtWB9mDVwzo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:26:25 GMT"
+          "Value": "Wed, 07 May 2025 20:55:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14319,18 +14319,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MQDIVHSCA9IcgM1zdNiFRh6maH6+VoIUueYey4l/Jm8="
+          "Value": "sha256-+/Eb0A2EBg9SxH0wFhozlntcaB1lXMDrAtWB9mDVwzo="
         }
       ]
     },
     {
       "Route": "_framework/MiniaturesApp.pdb",
-      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\kdjvcckm4w-dxcflbdw6z.gz",
+      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\kdjvcckm4w-f3srn54t03.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000044056745"
+          "Quality": "0.000043387713"
         }
       ],
       "ResponseHeaders": [
@@ -14340,15 +14340,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22697"
+          "Value": "23047"
         },
         {
           "Name": "ETag",
-          "Value": "\"CXLl77oqOVzlNGUO2ffHQ8Sem+0UCy3VQp3QTJb+LnE=\""
+          "Value": "\"YIz7WWEPjAKFoua0L3ZnBaxVHFF5mg3nv/JyLiMuY/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:19:05 GMT"
+          "Value": "Wed, 07 May 2025 20:54:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14368,19 +14368,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MQDIVHSCA9IcgM1zdNiFRh6maH6+VoIUueYey4l/Jm8=\""
+          "Value": "W/\"+/Eb0A2EBg9SxH0wFhozlntcaB1lXMDrAtWB9mDVwzo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MQDIVHSCA9IcgM1zdNiFRh6maH6+VoIUueYey4l/Jm8="
+          "Value": "sha256-+/Eb0A2EBg9SxH0wFhozlntcaB1lXMDrAtWB9mDVwzo="
         }
       ]
     },
     {
       "Route": "_framework/MiniaturesApp.pdb.gz",
-      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\kdjvcckm4w-dxcflbdw6z.gz",
+      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\kdjvcckm4w-f3srn54t03.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14389,7 +14389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22697"
+          "Value": "23047"
         },
         {
           "Name": "Content-Type",
@@ -14397,11 +14397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CXLl77oqOVzlNGUO2ffHQ8Sem+0UCy3VQp3QTJb+LnE=\""
+          "Value": "\"YIz7WWEPjAKFoua0L3ZnBaxVHFF5mg3nv/JyLiMuY/U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:19:05 GMT"
+          "Value": "Wed, 07 May 2025 20:54:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14419,7 +14419,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CXLl77oqOVzlNGUO2ffHQ8Sem+0UCy3VQp3QTJb+LnE="
+          "Value": "sha256-YIz7WWEPjAKFoua0L3ZnBaxVHFF5mg3nv/JyLiMuY/U="
         }
       ]
     },
@@ -14434,7 +14434,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29973"
+          "Value": "31509"
         },
         {
           "Name": "Content-Type",
@@ -14442,11 +14442,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v3Owmo6q/LbxIuhqmai/1S7xgieA7ud7vGRXaQtC3bE=\""
+          "Value": "\"soCHEVc6EbRmt17iJRQWm7jMwSVVs4C0o9x9evc88Qo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:26:25 GMT"
+          "Value": "Wed, 07 May 2025 20:55:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14456,18 +14456,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v3Owmo6q/LbxIuhqmai/1S7xgieA7ud7vGRXaQtC3bE="
+          "Value": "sha256-soCHEVc6EbRmt17iJRQWm7jMwSVVs4C0o9x9evc88Qo="
         }
       ]
     },
     {
       "Route": "_framework/MiniaturesApp.wasm",
-      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\esjcaxm4ja-1oa1kr0vpf.gz",
+      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\esjcaxm4ja-e180kha93m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079333598"
+          "Quality": "0.000077417357"
         }
       ],
       "ResponseHeaders": [
@@ -14477,15 +14477,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12604"
+          "Value": "12916"
         },
         {
           "Name": "ETag",
-          "Value": "\"PxdXyfqacIt8vkWD/jOuaucvEbqkTZ4a9YMXMkQ3M14=\""
+          "Value": "\"iipI1viLsOkxO5MR0oQ/Q2xP114Fk0Ru4UAlM9CaKcE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:19:05 GMT"
+          "Value": "Wed, 07 May 2025 20:54:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14505,19 +14505,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"v3Owmo6q/LbxIuhqmai/1S7xgieA7ud7vGRXaQtC3bE=\""
+          "Value": "W/\"soCHEVc6EbRmt17iJRQWm7jMwSVVs4C0o9x9evc88Qo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v3Owmo6q/LbxIuhqmai/1S7xgieA7ud7vGRXaQtC3bE="
+          "Value": "sha256-soCHEVc6EbRmt17iJRQWm7jMwSVVs4C0o9x9evc88Qo="
         }
       ]
     },
     {
       "Route": "_framework/MiniaturesApp.wasm.gz",
-      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\esjcaxm4ja-1oa1kr0vpf.gz",
+      "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\obj\\Debug\\net8.0\\compressed\\esjcaxm4ja-e180kha93m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14526,7 +14526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12604"
+          "Value": "12916"
         },
         {
           "Name": "Content-Type",
@@ -14534,11 +14534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PxdXyfqacIt8vkWD/jOuaucvEbqkTZ4a9YMXMkQ3M14=\""
+          "Value": "\"iipI1viLsOkxO5MR0oQ/Q2xP114Fk0Ru4UAlM9CaKcE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 13:19:05 GMT"
+          "Value": "Wed, 07 May 2025 20:54:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14556,7 +14556,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PxdXyfqacIt8vkWD/jOuaucvEbqkTZ4a9YMXMkQ3M14="
+          "Value": "sha256-iipI1viLsOkxO5MR0oQ/Q2xP114Fk0Ru4UAlM9CaKcE="
         }
       ]
     },
@@ -37941,7 +37941,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "965"
+          "Value": "1071"
         },
         {
           "Name": "Content-Type",
@@ -37949,11 +37949,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wO37Vxryg9JNbEDcJCpDGXwmELJ39EdGo6/DN+KFqDM=\""
+          "Value": "\"G3AWwnkkZgFGEoOCr8QbH5fypsnx0ysrpV9gC1BVnLo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 20:06:54 GMT"
+          "Value": "Wed, 07 May 2025 20:21:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37963,12 +37963,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wO37Vxryg9JNbEDcJCpDGXwmELJ39EdGo6/DN+KFqDM="
+          "Value": "sha256-G3AWwnkkZgFGEoOCr8QbH5fypsnx0ysrpV9gC1BVnLo="
         }
       ]
     },
     {
-      "Route": "index.sthm65zzjy.html",
+      "Route": "index.vr3secfklu.html",
       "AssetFile": "C:\\Users\\juanan\\source\\repos\\MiniaturesApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -37978,7 +37978,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "965"
+          "Value": "1071"
         },
         {
           "Name": "Content-Type",
@@ -37986,11 +37986,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wO37Vxryg9JNbEDcJCpDGXwmELJ39EdGo6/DN+KFqDM=\""
+          "Value": "\"G3AWwnkkZgFGEoOCr8QbH5fypsnx0ysrpV9gC1BVnLo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 24 Apr 2025 20:06:54 GMT"
+          "Value": "Wed, 07 May 2025 20:21:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -38000,7 +38000,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sthm65zzjy"
+          "Value": "vr3secfklu"
         },
         {
           "Name": "label",
@@ -38008,7 +38008,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wO37Vxryg9JNbEDcJCpDGXwmELJ39EdGo6/DN+KFqDM="
+          "Value": "sha256-G3AWwnkkZgFGEoOCr8QbH5fypsnx0ysrpV9gC1BVnLo="
         }
       ]
     },

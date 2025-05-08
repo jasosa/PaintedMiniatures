@@ -1033,6 +1033,7 @@ C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\rbudb0wez
 C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\staticwebassets\msbuild.MiniaturesApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\Miniatur.43A20FBE.Up2Date
-C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\esjcaxm4ja-1oa1kr0vpf.gz
-C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\kdjvcckm4w-dxcflbdw6z.gz
-C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\4soseu7oua-4fr5u1rs16.gz
+C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\MiniaturesApp.sourcelink.json
+C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\esjcaxm4ja-e180kha93m.gz
+C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\kdjvcckm4w-f3srn54t03.gz
+C:\Users\juanan\source\repos\MiniaturesApp\obj\Debug\net8.0\compressed\4soseu7oua-be544cma23.gz

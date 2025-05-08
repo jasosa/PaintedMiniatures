@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniaturesApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72c33b32db391580bb47aa3a08ae4ec86d8478ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniaturesApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniaturesApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

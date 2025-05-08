@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MiniaturesApp",
   "resources": {
-    "hash": "sha256-bmSQ00gMFt8qncxjRlIq9MYZQI/Alf5nPZzuDi5EE5A=",
+    "hash": "sha256-Nj/V/4rTG6Q3h8Yk7UIxEEFJY9ZmRQcjxM+tm3x+mHk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "MiniaturesApp.wasm": "sha256-v3Owmo6q/LbxIuhqmai/1S7xgieA7ud7vGRXaQtC3bE="
+      "MiniaturesApp.wasm": "sha256-soCHEVc6EbRmt17iJRQWm7jMwSVVs4C0o9x9evc88Qo="
     },
     "pdb": {
-      "MiniaturesApp.pdb": "sha256-MQDIVHSCA9IcgM1zdNiFRh6maH6+VoIUueYey4l/Jm8="
+      "MiniaturesApp.pdb": "sha256-+/Eb0A2EBg9SxH0wFhozlntcaB1lXMDrAtWB9mDVwzo="
     }
   },
   "cacheBootResources": true,
