@@ -20,6 +20,7 @@ obj/
 # IDE-specific files
 .vscode/
 .idea/
+.vs/
 
 # Dependency directories
 node_modules/
